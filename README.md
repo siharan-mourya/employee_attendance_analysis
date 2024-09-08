@@ -8,5 +8,5 @@ The dataset is sourced from [Atliq technologies](https://github.com/codebasics/D
 
 #### Project Workflow:
 * __Data gathering and transformation:__ Imported the data from excel workbook containing multiple sheets.Created parameter and function to append, clean and transform data.
-* __Creating metrics:__ Built metrics as per stakeholder requirements
+* __Creating metrics:__ Built metrics as per stakeholder requirements.
 * __Dashboard:__ The dashboard serves as an interactive tool to analyze and gain valuable insights. It includes KPIs and insights. 
